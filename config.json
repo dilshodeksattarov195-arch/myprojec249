@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userdync",
+        "uuid": 2214108,
+        "checksum": "0cpnaf"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
